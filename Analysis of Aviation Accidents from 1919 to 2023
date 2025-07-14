@@ -1,0 +1,36 @@
+**Analysis of Aviation Accidents from 1919 to 2023**
+
+The newly established IASS (International Alliance for Safe Skies) has tasked you with conducting a thorough analysis of all aviation accidents that occurred between 1919 and 2023.
+
+To this end, you are provided with a dataset containing nearly 25,000 recorded incidents with the following information:
+
+date: the date of the accident
+
+type: aircraft type
+
+registration: aircraft registration code
+
+operator: aircraft operator
+
+fatalities: number of deaths
+
+location: accident location
+
+country: country where the accident occurred
+
+cat: accident category as classified by ASN
+
+Use the data to uncover valuable insights, including through charts and visualizations.
+
+Examples of Insights
+These are examples of questions you can answer using the data, but don't limit yourself to them—conduct an in-depth analysis by asking additional questions you believe could lead to meaningful insights:
+
+In which country have the most accidents occurred?
+
+Do accidents happen more frequently on specific days of the week?
+
+Who are the safest operators?
+
+What type of aircraft has caused the highest number of fatalities?
+
+How have accidents evolved after September 11th?
